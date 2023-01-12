@@ -1,0 +1,29 @@
+{
+  "name": "learn-react-with-nikhil",
+  "version": "1.0.0",
+  "description": "react practice",
+  "scripts": {
+ 
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhilM09/Learn-react-with-nikhil.git"
+  },
+  "author": "nikhil mahadik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikhilM09/Learn-react-with-nikhil/issues"
+  },
+  "homepage": "https://github.com/NikhilM09/Learn-react-with-nikhil#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reactdom": "^2.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  }
+}
